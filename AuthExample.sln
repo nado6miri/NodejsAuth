@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "AuthExample", "AuthExample\AuthExample.njsproj", "{45ECAA70-CA71-4849-A298-E46285E746EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45ECAA70-CA71-4849-A298-E46285E746EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45ECAA70-CA71-4849-A298-E46285E746EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45ECAA70-CA71-4849-A298-E46285E746EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45ECAA70-CA71-4849-A298-E46285E746EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28A35D25-1889-463C-AFF2-22D2DE0DF79B}
+	EndGlobalSection
+EndGlobal
